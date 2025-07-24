@@ -1,5 +1,5 @@
 # tlauncher-PKGBUILD
-an arch PKGBUILD for tlauncher
+an arch PKGBUILD to install tlauncher from official .deb file
 
 ## usage:
 ```bash
